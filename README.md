@@ -1,2 +1,4 @@
 # Waterjug-Puzzle-Solver
-Solves the waterjug puzzle with user given amounts of water and goals
+To be run from the cammand line with the given makefile.
+Usage: ./waterjugpuzzle <capacity A> <capacity B> <capacity C> <goal A> <goal B> <goal C>
+Bucket C is assumed to be full at the start
